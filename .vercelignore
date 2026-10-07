@@ -1,0 +1,14 @@
+.venv/
+.git/
+__pycache__/
+**/__pycache__/
+*.pyc
+.env
+.env.*
+.DS_Store
+tests/
+preview.jpg
+sample-review-report.html
+samples/*.xlsx
+samples/*.pdf
+*.md
